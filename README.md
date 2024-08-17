@@ -24,11 +24,11 @@ Make sure to install the dependencies:
 
 Clone the repository:
 ```bash
-git clone https://github.com/regenrek/zunder-chat-ai-starter.git
+git clone https://github.com/regenrek/zunder-chat-ai-starter.git my-ai-chat
 ```
 
 ```bash
-# npm
+cd my-ai-chat
 pnpm install
 ```
 
